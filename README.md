@@ -7,10 +7,10 @@ It is built with the [Jekyll static website generator](https://jekyllrb.com/) an
 
 Existing pages can be updated through the browser by using the [github.dev editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor), which can be launched using the [`.` keyboard shortcut](https://docs.github.com/en/get-started/accessibility/keyboard-shortcuts#source-code-editing). This will open a Visual Studio Code-like interface, where you should:
 
-1. Create a new branch by clicking on the button on the bottom left side of the editor (the default branch is called `master`).
+1. Create a new branch by clicking on the button on the bottom left side of the editor (the default branch is called `main`).
 2. Make desired changes to the repository (i.e. create/edit files).
 3. Go to the "Source control" tab on the left sidebar, stage changes and commit/push.
-4. Open a pull request (PR) to merge the changes from your branch back to the `master` branch (see [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) for more instructions).
+4. Open a pull request (PR) to merge the changes from your branch back to the `main` branch (see [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) for more instructions).
 
 In the new pull request, there will be a link to a preview of the website with your changes.
 Write a meaningful PR title and verify that the website looks as expected, then you can merge the PR.
