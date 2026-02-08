@@ -95,4 +95,11 @@ To add the team page for a new year:
 
 ## How to add a blog post
 
+Blog posts will appear in the "News" page. The most recent posts will also appear in the "Latest news" section of the homepage.
+
+1. Make a copy of `_posts/template.md` in the same directory.
+2. Rename that file following this format: `YYYY-MM-DD-my-great-title.md`. Note that the `my-great-title` part must be unique since it determines the page's URL.
+3. Update the front matter (block at the top of this file) to have a new title.
+4. Optionally set tag(s) in the front matter. Tags allow for grouping of posts in the [Tags page](https://ohbm-environment.org/tags/).
+
 ## How to add an event page
