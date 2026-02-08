@@ -68,7 +68,7 @@ Open a web browser and go to this URL to see the rendered website. The website s
 
 ## How to add a Team page
 
-Members of the active committee are shown near the bottom of the home page and on a dedicated "Team" page. 
+Members of the active committee are shown near the bottom of the [home page](https://ohbm-environment.org/) and on a dedicated ["Team"](https://ohbm-environment.org/team/) page. 
 
 To add the team page for a new year:
 1. In `_data/teams.yml`
@@ -95,11 +95,22 @@ To add the team page for a new year:
 
 ## How to add a blog post
 
-Blog posts will appear in the "News" page. The most recent posts will also appear in the "Latest news" section of the homepage.
+Blog posts will appear in the [News](https://ohbm-environment.org/blog/) page. The most recent posts will also appear in the "Latest news" section of the [home page](https://ohbm-environment.org/).
 
+To add a new blog post (for example announcing elections):
 1. Make a copy of `_posts/template.md` in the same directory.
 2. Rename that file following this format: `YYYY-MM-DD-my-great-title.md`. Note that the `my-great-title` part must be unique since it determines the page's URL.
 3. Update the front matter (block at the top of this file) to have a new title.
 4. Optionally set tag(s) in the front matter. Tags allow for grouping of posts in the [Tags page](https://ohbm-environment.org/tags/).
 
 ## How to add an event page
+
+Events appear as sub-pages under the main [Events](https://ohbm-environment.org/events/) page.
+
+To add a new event page:
+1. Make a copy of `_pages/events/template.md` in the same directory.
+2. Rename that file.
+3. Update the front matter (block at the top of this file) to have a new title and permalink.
+4. Add the page to the `_data/navigation.yml` file's `events` section. The `url` field must match the file's permalink.
+    1. If the event is for a new year, create a new section for the year.
+    2. Otherwise, add it as a child of an existing section.
