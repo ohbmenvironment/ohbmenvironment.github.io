@@ -1,14 +1,15 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+# In dark mode, used to replace: https://github.com/mmistakes/minimal-mistakes/blob/master/assets/css/main.scss
 search: false
 ---
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin_dark | default: 'dark' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-// Custom styles (everything above is copied from https://github.com/mmistakes/minimal-mistakes/blob/0064dabea814bd3a2e203320a141c037fdcf67ea/assets/css/main.scss)
+
+// Custom styles
 .social-icons {
   .fa-bluesky {
     color: #1083fe;
