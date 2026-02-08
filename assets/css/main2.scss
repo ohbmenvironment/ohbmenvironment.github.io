@@ -7,55 +7,6 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin_dark | default: 'dark' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-
-// Custom styles
-.social-icons {
-  .fa-bluesky {
-    color: #1083fe;
-  }
-}
-
-.team__wrapper {
-  @extend .feature__wrapper;
-  border-bottom: none;
-}
-
-.team__item {
-  @extend .feature__item;
-  @extend .archive__item;
-  text-align: center;
-}
-
-.team__item-header {
-  @extend .archive__item-teaser;
-}
-
-.team__avatar {
-  width: 50% !important;
-  border-radius: 50%;
-}
-
-.team__item-body {
-  @extend .archive__item-body;
-}
-
-.team__item-name {
-  @extend .archive__item-title;
-}
-
-.team__item-role {
-  font-style: italic;
-  font-size: 1em;
-}
-
-.team__item-link {
-  text-decoration: none !important;
-  border:0px !important;
-  outline:none;
-  border-width: 0px;
-  outline-width:0px;
-  border-bottom: none;
-}
+@import "custom"; // custom styles
 
 
