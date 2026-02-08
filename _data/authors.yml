@@ -1,3 +1,20 @@
+# Data from this file is used in "Team" pages and in blog posts.
+
+# # template
+# Firstname Lastname:
+#   name: "Firstname Lastname"
+#   avatar: "/assets/images/people/firstname-lastname.jpg"
+#   links:
+#   - label: "Website"
+#     icon: "fas fa-fw fa-link"
+#     url: "https://www.example.com"
+#   - label: "Bluesky"
+#     icon: "fab fa-fw fa-bluesky"
+#     url: "https://bsky.app/profile/username.bsky.social"
+#   - label: "LinkedIn"
+#     icon: "fab fa-fw fa-linkedin"
+#     url: "https://www.linkedin.com/in/username"
+
 Anna Behler:
   name: "Anna Behler"
   avatar: "/assets/images/people/anna-behler.jpg"
