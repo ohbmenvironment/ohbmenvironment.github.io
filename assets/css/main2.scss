@@ -8,5 +8,3 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin_dark | default: 'dark' }}"; // skin
 @import "minimal-mistakes"; // main partials
 @import "custom"; // custom styles
-
-

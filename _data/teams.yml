@@ -1,30 +1,30 @@
 # # template
 # latest: &latest
-# - id: 
+# - id:
 #   role: Chair
-# - id: 
+# - id:
 #   role: Secretary
 # - id:
 #   role: Treasurer
-# - id: 
+# - id:
 #   role: Annual Meeting working group Chair
 # - id:
 #   role: Neuroimaging Research Pipelines working group Chair
-# - id: 
+# - id:
 #   role: Education and Outreach working group Chair
-# - id: 
+# - id:
 #   role: Chair-elect
-# - id: 
+# - id:
 #   role: Secretary-elect
-# - id: 
+# - id:
 #   role: Treasurer-elect
-# - id: 
+# - id:
 #   role: Past Chair
-# - id: 
+# - id:
 #   role: Past Secretary
-# - id: 
+# - id:
 #   role: Past Treasurer
-# - id: 
+# - id:
 #   role: Volunteer
 
 latest: &latest
@@ -34,17 +34,17 @@ latest: &latest
   role: Secretary
 - id: Maria Misiura
   role: Treasurer
-# - id: 
+# - id:
 #   role: Chair-elect
-# - id: 
+# - id:
 #   role: Secretary-elect
-# - id: 
+# - id:
 #   role: Treasurer-elect
 - id: Lea Michel
   role: Past Chair
 - id: Michelle Wang
   role: Past Treasurer
-# - id: 
+# - id:
 #   role: Annual Meeting working group Chair
 - id: Nick Souter
   role: Neuroimaging Research Pipelines working group Chair

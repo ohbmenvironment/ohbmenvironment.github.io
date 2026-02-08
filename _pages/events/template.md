@@ -3,7 +3,7 @@ title: OHBM YYYY
 permalink: /ohbm-YYYY/
 ---
 
-To create a new event page, make a copy of this file and rename it. If the page is about the OHBM annual meeting or a satellite event, you can rename use the `ohbm-YYYY.md` format. 
+To create a new event page, make a copy of this file and rename it. If the page is about the OHBM annual meeting or a satellite event, you can rename use the `ohbm-YYYY.md` format.
 
 Then update the front matter (block at the top of this file) to have a new title and permalink.
 

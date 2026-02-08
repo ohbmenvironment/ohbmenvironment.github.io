@@ -68,7 +68,7 @@ Open a web browser and go to this URL to see the rendered website. The website s
 
 ## How to add a Team page
 
-Members of the active committee are shown near the bottom of the [home page](https://ohbm-environment.org/) and on a dedicated ["Team"](https://ohbm-environment.org/team/) page. 
+Members of the active committee are shown near the bottom of the [home page](https://ohbm-environment.org/) and on a dedicated ["Team"](https://ohbm-environment.org/team/) page.
 
 To add the team page for a new year:
 1. In `_data/teams.yml`

@@ -4,7 +4,7 @@
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
-# 
+#
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
@@ -123,7 +123,7 @@ defaults:
           excerpt: "Making the annual meeting sustainable and accessible by putting together engaging, impactful content."
           url: "/annual-meeting/"
           btn_label: "Learn More"
-          btn_class: "btn--primary"  
+          btn_class: "btn--primary"
         - title: "Green computing"
           image_path: /assets/images/green-computing-wg.jpg
           excerpt: "Reducing the footprint of neuroimaging data collection and analyses."
