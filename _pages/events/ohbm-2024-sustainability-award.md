@@ -26,4 +26,3 @@ Questions? Please direct them to the OHBM Executive Office at [info@humanbrainma
 Nominate here:
 
 [https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4244](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4244)
-

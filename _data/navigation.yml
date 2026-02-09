@@ -24,6 +24,10 @@ working-groups:
     url: /education/
 
 events:
+  # - title: YYYY
+  #   children:
+  #     - title: OHBM YYYY
+  #       url: /ohbm-YYYY/
   - title: 2025
     children:
       - title: OHBM 2025
@@ -48,10 +52,9 @@ events:
         url: /ohbm-2021/
 
 teams:
-  - title: 2025-2026
+  - title: Current
     url: /team/
   - title: 2024-2025
     url: /team-2024-2025/
-  - title: Past members
+  - title: Pre-2024
     url: /past-members/
-  

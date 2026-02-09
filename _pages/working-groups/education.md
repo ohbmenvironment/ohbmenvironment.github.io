@@ -14,4 +14,3 @@ Topics to be worked on include:
 - Showcasing the work of the [Annual Meeting](/working-groups/annual-meeting) and [Green Computing](/working-groups/green-computing) Working Groups through different media
 - Collaborating with the [Annual Meeting](/working-groups/annual-meeting) Working Group to develop educational activities for the annual meeting (symposia, socials, special events)
 - Collaborating with the [Green Computing](/working-groups/green-computing) Working Group to raise the profile of sustainable neuroimaging best practise
-

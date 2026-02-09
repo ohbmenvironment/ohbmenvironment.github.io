@@ -1,3 +1,32 @@
+# # template
+# latest: &latest
+# - id:
+#   role: Chair
+# - id:
+#   role: Secretary
+# - id:
+#   role: Treasurer
+# - id:
+#   role: Annual Meeting working group Chair
+# - id:
+#   role: Neuroimaging Research Pipelines working group Chair
+# - id:
+#   role: Education and Outreach working group Chair
+# - id:
+#   role: Chair-elect
+# - id:
+#   role: Secretary-elect
+# - id:
+#   role: Treasurer-elect
+# - id:
+#   role: Past Chair
+# - id:
+#   role: Past Secretary
+# - id:
+#   role: Past Treasurer
+# - id:
+#   role: Volunteer
+
 latest: &latest
 - id: Thomas Hinault
   role: Chair, Past Secretary
