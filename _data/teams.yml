@@ -31,26 +31,24 @@ latest: &latest
 - id: Thomas Hinault
   role: Chair, Past Secretary
 - id: Anna Behler
-  role: Secretary
+  role: Secretary, Annual Meeting working group Chair
 - id: Maria Misiura
   role: Treasurer
-# - id:
-#   role: Chair-elect
-# - id:
-#   role: Secretary-elect
-# - id:
-#   role: Treasurer-elect
+- id: Ryann Tansey
+  role: Education and Outreach working group Chair
+- id: Nick Souter
+  role: Chair-elect, Neuroimaging Research Pipelines working group Chair
+- id: Iris Menu
+  role: Secretary-elect
+- id: Paulina Skolasinska
+  role: Treasurer-elect
 - id: Lea Michel
   role: Past Chair
 - id: Michelle Wang
   role: Past Treasurer
-# - id:
-#   role: Annual Meeting working group Chair
-- id: Nick Souter
-  role: Neuroimaging Research Pipelines working group Chair
-- id: Ryann Tansey
-  role: Education and Outreach working group Chair
 - id: Nikhil Bhagwat
+  role: Volunteer
+- id: Polona Kalc
   role: Volunteer
 
 2024-2025:
