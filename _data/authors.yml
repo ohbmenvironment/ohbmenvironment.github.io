@@ -54,6 +54,14 @@ Lea Michel:
     icon: "fab fa-fw fa-linkedin"
     url: "https://www.linkedin.com/in/l%C3%A9a-michel-79397213b/"
 
+Iris Menu:
+  name: "Iris Menu"
+  avatar: "/assets/images/people/iris-menu.jpg"
+  links:
+  - label: "Website"
+    icon: "fas fa-fw fa-link"
+    url: "https://www.lapsyde.com/members/iris-menu"
+
 Maria Misiura:
   name: "Maria Misiura"
   avatar: "/assets/images/people/maria-misiura.png"
@@ -116,6 +124,10 @@ Nikhil Bhagwat:
     icon: "fas fa-fw fa-link"
     url: "https://nikhil153.github.io/"
 
+Paulina Skolasinska:
+  name: "Paulina Skolasinska"
+  avatar: "/assets/images/people/paulina-skolasinska.jpg"
+
 Peer Heerholz:
   name: "Peer Heerholz"
   avatar: "/assets/images/people/peer-heerholz.png"
@@ -123,6 +135,10 @@ Peer Heerholz:
   - label: "Website"
     icon: "fas fa-fw fa-link"
     url: "https://peerherholz.github.io/"
+
+Polona Kalc:
+  name: "Polona Kalc"
+  avatar: "/assets/images/people/polona-kalc.jpg"
 
 Ryann Tansey:
   name: "Ryann Tansey"
