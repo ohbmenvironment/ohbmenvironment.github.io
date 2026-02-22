@@ -50,6 +50,8 @@ latest: &latest
   role: Volunteer
 - id: Polona Kalc
   role: Volunteer
+- id: Maximilien Chaumon
+  role: Volunteer
 - id: Marie-Eve Picard
   role: Volunteer
 

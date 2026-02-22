@@ -103,6 +103,14 @@ Marie-Eve Picard:
     icon: "fab fa-fw fa-github"
     url: "https://github.com/me-pic/"
 
+Maximilien Chaumon:
+  name: "Maximilien Chaumon"
+  avatar: "/assets/images/people/maximilien-chaumon.jpg"
+  links:
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/dnacombo/"
+
 Michele Veldsman:
   name: "Michele Veldsman"
   avatar: "/assets/images/people/michele-veldsman.jpg"
