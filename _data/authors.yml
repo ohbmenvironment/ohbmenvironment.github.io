@@ -95,6 +95,14 @@ Marie-Eve Hoeppli:
     icon: "fab fa-fw fa-linkedin"
     url: "https://www.linkedin.com/in/marie-eve-hoeppli-a19341a/"
 
+Marie-Eve Picard:
+  name: "Marie-Eve Picard"
+  avatar: "/assets/images/people/marie-eve-picard.jpg"
+  links:
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/me-pic/"
+
 Michele Veldsman:
   name: "Michele Veldsman"
   avatar: "/assets/images/people/michele-veldsman.jpg"

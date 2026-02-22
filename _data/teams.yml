@@ -50,6 +50,8 @@ latest: &latest
   role: Volunteer
 - id: Polona Kalc
   role: Volunteer
+- id: Marie-Eve Picard
+  role: Volunteer
 
 2024-2025:
 - id: Lea Michel
