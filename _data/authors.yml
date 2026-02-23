@@ -95,14 +95,6 @@ Marie-Eve Hoeppli:
     icon: "fab fa-fw fa-linkedin"
     url: "https://www.linkedin.com/in/marie-eve-hoeppli-a19341a/"
 
-Marie-Eve Picard:
-  name: "Marie-Eve Picard"
-  avatar: "/assets/images/people/marie-eve-picard.jpg"
-  links:
-  - label: "GitHub"
-    icon: "fab fa-fw fa-github"
-    url: "https://github.com/me-pic/"
-
 Maximilien Chaumon:
   name: "Maximilien Chaumon"
   avatar: "/assets/images/people/maximilien-chaumon.jpg"
