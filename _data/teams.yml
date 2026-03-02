@@ -50,6 +50,8 @@ latest: &latest
   role: Volunteer
 - id: Polona Kalc
   role: Volunteer
+- id: Maximilien Chaumon
+  role: Volunteer
 
 2024-2025:
 - id: Lea Michel

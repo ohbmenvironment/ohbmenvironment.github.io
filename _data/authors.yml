@@ -95,6 +95,14 @@ Marie-Eve Hoeppli:
     icon: "fab fa-fw fa-linkedin"
     url: "https://www.linkedin.com/in/marie-eve-hoeppli-a19341a/"
 
+Maximilien Chaumon:
+  name: "Maximilien Chaumon"
+  avatar: "/assets/images/people/maximilien-chaumon.jpg"
+  links:
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/dnacombo/"
+
 Michele Veldsman:
   name: "Michele Veldsman"
   avatar: "/assets/images/people/michele-veldsman.jpg"
