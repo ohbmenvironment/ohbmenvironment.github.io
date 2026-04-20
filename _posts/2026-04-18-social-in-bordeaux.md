@@ -1,8 +1,8 @@
 ---
 title: "Join the SEA-SIG for our social event at OHBM 2026 in Bordeaux!"
-# tags:
-#   - annual meeting
-#   - sea-sig social
+tags:
+  - annual meeting
+  - sea-sig social
 ---
 
 The SEA-SIG is hosting our annual social during the 2026 OHBM Annual Meeting in Bordeaux, France!
