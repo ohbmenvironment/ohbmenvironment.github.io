@@ -15,13 +15,13 @@ For the first time, the SEA-SIG will be offering travel awards to trainees (grad
 
 Awardees will be selected based on distance travelled using their sustainable means of transport. If more than 10 meritous applications are received that are equivalent, the awardees will be decided by a lottery.
 
-Award amount: $300 USD
-Number of awards: 10
-Applications due: May 31, 2026
-How to apply: Email the SEA-SIG at [ohbm.sea.sig@gmail.com](mailto:ohbm.sea.sig@gmail.com) with the following information
-    - confirmation of your status as either a graduate student or postdoc
-    - name of your current institution
-    - confirmation of your registration to the OHBM 2026 Annual Meeting
+Award amount: $300 USD <br>
+Number of awards: 10 <br>
+Applications due: May 31, 2026 <br>
+How to apply: Email the SEA-SIG at [ohbm.sea.sig@gmail.com](mailto:ohbm.sea.sig@gmail.com) with the following information <br>
+    - confirmation of your status as either a graduate student or postdoc <br>
+    - name of your current institution <br>
+    - confirmation of your registration to the OHBM 2026 Annual Meeting <br>
     - proof of your sustainable travel itinerary (i.e., receipt for train booking)
 
 Recipients will be highlighted at the OHBM 2026 SEA-SIG roundtable, on Tuesday, June 16, 2026!
