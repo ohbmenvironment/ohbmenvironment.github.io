@@ -19,7 +19,7 @@ Award amount: $300 USD
 Number of awards: 10
 Applications due: May 31, 2026
 How to apply: Email the SEA-SIG at [ohbm.sea.sig@gmail.com](mailto:ohbm.sea.sig@gmail.com) with the following information
-    - confirmation of you status as either a graduate student or postdoc
+    - confirmation of your status as either a graduate student or postdoc
     - name of your current institution
     - confirmation of your registration to the OHBM 2026 Annual Meeting
     - proof of your sustainable travel itinerary (i.e., receipt for train booking)
